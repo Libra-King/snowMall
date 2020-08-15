@@ -14,7 +14,7 @@ Start the dev server,
 $ yarn start
 ```
 
-React 阶段项目训练营
+
 
 技术：基于 Umi3 + DVA + TS + Antd-Mobile
 创建目录： mkdir snow-mall
